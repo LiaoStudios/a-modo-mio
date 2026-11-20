@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+node_modules
+dist
+dist-ssr
+.claude
+.superpowers
+# materiale di lavoro (foto sorgente, export, appunti interni): restano solo in locale
+GoogleBusiness/
+Facebook/
+Instagram/
+SitoWeb/
+Taverna/
+_archivio/
+_to_delete/
+DA-VERIFICARE.md
